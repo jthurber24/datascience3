@@ -3,3 +3,4 @@
 The variables in this set include: Diabetes (0/1/2), High Blood Pressure, High Cholesterol, Cholesterol Check in Last 5 Years, BMI, Smoked 100 Cigs in Life?, Stroke, 
 Heart Disease/Attack, Physical Activity Past 30 Days, Consume 1 Fruit a Day, Consume 1 Veg a day, Heavy Alc Consumption, Healthcare, Not Seen Dr past year, General 
 Health (1-5), Mental Health, Physical Health, Difficulty Walking, Sex, Age, Education Level, Income
+Contributors: Kristin Lavoie, Nick Latsis, Josh Thurber
